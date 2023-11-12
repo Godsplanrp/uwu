@@ -414,7 +414,7 @@ function resetCalculator() {
 
   <div>
     <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">Bento Box - 5000$</label>
+    <label for="Davechoice">The Garrett Special - 5000$</label>
     <input type="number" value="1" min="1">
   </div>
   
