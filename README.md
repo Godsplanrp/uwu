@@ -279,20 +279,20 @@ function resetCalculator() {
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="125$">
-    <label for="Davechoice">Iced Coffee - 125$</label>
+    <input type="checkbox" id="Davechoice" value="225$">
+    <label for="Davechoice">Iced Coffee - 225$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="125$">
-    <label for="Davechoice">Matcha Latte - 125$</label>
+    <input type="checkbox" id="Davechoice" value="175$">
+    <label for="Davechoice">Matcha Latte - 175$</label>
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="125$">
-    <label for="Davechoice">Pumpkin Spice Latte - 125$</label>
+    <input type="checkbox" id="Davechoice" value="175$">
+    <label for="Davechoice">Pumpkin Spice Latte - 175$</label>
     <input type="number" value="1" min="1">
   </div>
 
@@ -348,43 +348,43 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
   
-    <h3>Cat Tuccino Specials</h3>
+    <h3>Ice Coffee Specials</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
   <div>
     <input type="checkbox" id="uwueats" value="1600$">
-    <label for="Velmachoice">10 Cat Tuccinos - 1600$</label>
+    <label for="Velmachoice">10 Ice Coffee - 1600$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
     <input type="checkbox" id="Davechoice" value="2500$">
-    <label for="Davechoice">20 Cat Tuccinos - 2500$</label>
+    <label for="Davechoice">20 Ice Coffee - 2500$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
     <input type="checkbox" id="Davechoice" value="3500$">
-    <label for="Davechoice">30 Cat Tuccinos - 3500$</label>
+    <label for="Davechoice">30 Ice Coffee - 3500$</label>
     <input type="number" value="1" min="1">
   </div>
 
   <div>
     <input type="checkbox" id="Davechoice" value="4500$">
-    <label for="Davechoice">40 Cat Tuccinos - 4500$</label>
+    <label for="Davechoice">40 Ice Coffee - 4500$</label>
     <input type="number" value="1" min="1">
   </div>
 
   <div>
     <input type="checkbox" id="Davechoice" value="5500$">
-    <label for="Davechoice">50 Cat Tuccinos - 5500$</label>
+    <label for="Davechoice">50 Ice Coffee - 5500$</label>
     <input type="number" value="1" min="1">
   </div>
   
    <div>
     <input type="checkbox" id="Davechoice" value="9000$">
-    <label for="Davechoice">100 Cat Tuccinos - 9000$</label>
+    <label for="Davechoice">100 Ice Coffee - 9000$</label>
     <input type="number" value="1" min="1">
   </div>
   <h3>Specials</h3>
