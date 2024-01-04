@@ -348,6 +348,16 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
   
+      <h3>Cat Tuccino Specials</h3>
+
+  <div style="margin-bottom: 10px;"></div>
+
+  <div>
+    <input type="checkbox" id="uwueats" value="4500$">
+    <label for="Velmachoice">30 Fruit Explosions - 4500$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
     <h3>Cat Tuccino Specials</h3>
 
   <div style="margin-bottom: 10px;"></div>
