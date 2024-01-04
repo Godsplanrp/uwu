@@ -348,7 +348,7 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
   
-      <h3>Cat Tuccino Specials</h3>
+      <h3>Fruit Explosion Specials</h3>
 
   <div style="margin-bottom: 10px;"></div>
 
